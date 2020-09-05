@@ -8,7 +8,6 @@ def my_hash
     name: "Lula",
     breed: "Australian Cattle Dog"
   }
-  }
 end
 
 def pioneer
