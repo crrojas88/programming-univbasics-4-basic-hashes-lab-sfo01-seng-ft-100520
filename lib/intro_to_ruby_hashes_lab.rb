@@ -6,7 +6,8 @@ def my_hash
   # return a valid hash with any key/value pair of your choice
   my_dog = {
     name: "Lula"
-    breed: "Australian Cattle"
+    breed: "Australian Cattle Dog"
+  }
   }
 end
 
